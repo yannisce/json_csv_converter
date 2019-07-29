@@ -2,7 +2,7 @@
 
  ![project image](https://i.ibb.co/Dtc3kjQ/download.png)
 
-### This project was made using [create-react-app](https://github.com/facebook/create-react-app)
+### This project was made with [create-react-app](https://github.com/facebook/create-react-app)
 
 * After cloning or downloading the repo to get started quickly run:
 
