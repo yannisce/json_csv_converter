@@ -8,11 +8,11 @@
 
 <div>
  
-* After cloning or downloading the repo to get started quickly run:
+ After cloning or downloading the repo to get started quickly run:
 
   `npm run start`
   
- * Sample data:
+  Sample data:
   [csv sample](/sample_data/FL_insurance_sample.csv), [json sample](/sample_data/electronic-card-transaction-May-2019-csv-tables.json)
 <div/>
 
