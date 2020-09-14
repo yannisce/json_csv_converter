@@ -17,6 +17,7 @@ class App extends Component {
 
   renderContent() {
     switch(this.state.conversion) {
+      case 'vnd.ms-excel':
       case 'csv':
 
           return <Processing reset={this.reset} file={this.state.file} type='csv' name={this.state.name} />;
